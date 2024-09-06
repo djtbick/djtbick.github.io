@@ -1,44 +1,23 @@
-/* lora-regular - latin */
+/* Computer Modern - Regular */
 @font-face {
-  font-family: "Lora";
+  font-family: "Computer Modern";
   font-style: normal;
   font-weight: 400;
-  /* src: url("C:/Users/david/Downloads/cmunrm.woff2") format('woff2'); */
-  src: url("C:/Users/david/Downloads/cmunrm.woff2") format('woff2');
+  src: url("cmunrm.woff2") format('woff2');
 }
 
-/* lora-italic - latin */
+/* Computer Modern - Italic */
 @font-face {
-  font-family: "Lora";
+  font-family: "Computer Modern";
   font-style: italic;
   font-weight: 400;
-  src: url("C:/Users/david/Downloads/cmunti.ttf") format('truetype');
+  src: url("cmunti.ttf") format('truetype');
 }
 
-/* lora-700 - latin */
+/* Font for Small Caps */
 @font-face {
-  font-family: 'Lora';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Lora Bold'), local('Lora-Bold'),
-       url('fonts/lora-v15-latin-700.woff2') format('woff2'),
-       url('fonts/lora-v15-latin-700.woff') format('woff');
-}
-
-/* lora-700italic - latin */
-@font-face {
-  font-family: 'Lora';
-  font-style: italic;
-  font-weight: 700;
-  src: local('Lora Bold Italic'), local('Lora-BoldItalic'),
-       url('fonts/lora-v15-latin-700italic.woff2') format('woff2'),
-       url('fonts/lora-v15-latin-700italic.woff') format('woff');
-}
-/* marcellus-sc-regular - latin */
-@font-face {
-  font-family: "Marcellus SC";
+  font-family: "Small Caps";
   font-style: normal;
   font-weight: normal;
-  /*src: url("C:/Users/david/Downloads/marcellus-sc-v7-latin-regular.woff2") format('woff2');*/
-  src: url("C:/Users/david/Downloads/cmunrm.woff2") format('woff2');
+  src: url("cmunrm.woff2") format('woff2');
 }

@@ -5,12 +5,12 @@ article, aside, footer, header, hgroup, nav, section, main {
 body{
     padding: 0;
     margin: 0;
-    font-family: 'Lora', serif;
+    font-family: "Computer Modern", serif;
 }
 header {
     font-weight: normal;
     font-size: 2.5em;
-    font-family: "Lora", serif;
+    font-family: "Computer Modern", serif;
     width: 90%;
     max-width: 600px;
     margin-left: auto;
@@ -34,7 +34,7 @@ footer {
 }
 h1, h2, h3 {
     font-weight: normal;
-    font-family: "Marcellus SC", sans-serif;
+    font-family: "Small Caps", sans-serif;
     font-variant: small-caps;
     margin-bottom: 0.0em;
     margin-top: 0.8em;
@@ -80,7 +80,4 @@ ul li {
     header {
         font-size: 2em;
     }
-}
-.katex {
-    font-size: 1.1em !important;
 }
